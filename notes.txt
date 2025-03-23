@@ -41,3 +41,14 @@ DELETE FROM students WHERE id = 2;
 DELETE FROM students WHERE class = "Five";
 
 
+
+
+============portfolio=========
+1. services (id, service_name, image) 1 "web development" "aofj.jpg"
+2. skills (id, skill_name, percentage)
+3. projects (id, project_name, description, image)
+
+
+
+
+VARCHAR, TEXT
